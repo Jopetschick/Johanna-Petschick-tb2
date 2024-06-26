@@ -18,7 +18,7 @@
 
 "Too Good To Waste" is a Python-based application designed to help users manage their refrigerator contents. The application is built using the Tkinter library for the graphical user interface (GUI) and incorporates additional functionalities through libraries such as `PIL` for image processing and `webbrowser` for linking to external resources. The application aims to reduce food waste by providing an organized and user-friendly platform for managing household food items.
 
-### User Instructions
+## User Instructions
 
 **Clone the Repository**
 
