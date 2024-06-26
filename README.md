@@ -5,10 +5,10 @@
 
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none; vertical-align: top;">
+    <td style="border: none; vertical-align: top; text-align: center;">
       <img src="https://github.com/Jopetschick/Johanna-Petschick-tb2/assets/137704185/3fd9a58f-6409-4dd8-85a9-d6d382d46dbd0" alt="Placeholder Image" width="1450" height="500">
     </td>
-    <td style="border: none; vertical-align: top;">
+    <td style="border: none; vertical-align: top; text-align: center;">
       <p>Welcome to “Too good to waste” where you can track what’s in your fridge, get ideas for new recipes, add items to your shopping list and find out more about seasonal foods. (But also many more!). Open your fridge, to find out what’s inside!!</p>
     </td>
   </tr>
