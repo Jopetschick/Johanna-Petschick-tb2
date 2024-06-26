@@ -25,7 +25,7 @@
 First, clone the repository to your local machine:
 
 ```
-git clone
+git clone https://github.com/Jopetschick/Johanna-Petschick-tb2.git
 ```
 
 **Change the Directory**
@@ -33,7 +33,7 @@ git clone
 Navigate into the project directory:
 
 ```
-cd too-good-to-waste
+cd Johanna-Petschick-tb2
 
 ```
 
@@ -48,11 +48,12 @@ pip install -r requirements.txt
 
 **Run the Code**
 
-Finally, execute the application by running:
+Finally, execute the application by running mac/windows:
 
 ```
-python main.py
+python app.py
+python3 app.py
 
 ```
 
-Now find out what’s in you fridge!
+Now open your fridge and find out what's inside!
